@@ -76,8 +76,7 @@ nltk.download('vader_lexicon')
 
 📊 Dataset
 
-The project expects a CSV file with drug reviews dataset (from Drugs.com reviews
-).
+The project expects a CSV file with drug reviews dataset (from Drugs.com reviews, available on Kaggle).
 
 Required columns:
 
